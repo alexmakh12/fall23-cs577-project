@@ -1,2 +1,1 @@
-# fall23-cs577-project
-Final project for CS577
+![Grade is the most significant feature](./random_forest_r_squared.png "Random Forest r^2")
