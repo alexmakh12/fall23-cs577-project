@@ -5,7 +5,7 @@
 -----------
 ### Project Sructure:
 - The dataset is located under the `/data` directory
-- The main notebook with the complete project is `main.ipynb` under the `/src` directory
+- **The main notebook with the complete project is `main.ipynb` under the `/src` directory**
   - Unrefined and initial models and implementations are located under `src/models`
 -----------
 ### Running the notebook:
